@@ -6,5 +6,8 @@
     "Emre Orhan <videokod7@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/mreorhan/TCP-Message"
+  "homepage": "https://github.com/mreorhan/TCP-Message",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
